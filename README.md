@@ -23,7 +23,7 @@ A user may create custom complex functions that are named and then stored in the
 
 (https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-functions-the-basics/), 2020)  (external site)
 
-##**Explain when you would use a SQL User Defined Function (UDF)**
+## **Explain when you would use a SQL User Defined Function (UDF)**
 
 The UDF is a ‘named’ and reusable routine that can perform complex calculations using input parameters.  Wrapping complex code and storing it in a function allows you to call that function whenever needed, without re-writing the code.  This is beneficial for regularly used calculations, and saves time and database resources.
 
