@@ -1,4 +1,4 @@
-# DBFoundations-Module07 - Functions
+# Functions
 
 Lisa Jones
 
